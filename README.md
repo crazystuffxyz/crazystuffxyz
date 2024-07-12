@@ -33,7 +33,7 @@ JavaScript can't install viruses, but it can download files. Its true danger lie
 
 ## Achievements 🏆
 
-- **TSA Winner:** Got 2nd place in the VA state for Website Design in the TSA competition of 2024. **Website:** [pwngo.github.io](https://pwngo.github.io)
+- **TSA Winner:** Got 2nd place in the VA state for Website Design in the TSA competition of 2024. **Website:** [pwngo.github.io](https://pwngo.github.io) <i>Please note there is no real makerspace, we were given a task to simulate a website to advertise it.</i>
 
 
 ---
