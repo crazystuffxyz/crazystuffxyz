@@ -22,7 +22,7 @@
 ## Fun Fact ⚡
 
 **JavaScript Myth-Busting:**  
-JavaScript can't install viruses, but it can download files. Its true danger lies in social engineering. Always stay vigilant—if a website seems suspicious, prepend `view-source:` to the URL to inspect the code. Be wary of script tags linking to dubious, scrambled URLs.
+JavaScript can't install viruses, but it can download files, open mass amounts of windows, or run busy functions which can drain your computer from memory. Its true danger lies in social engineering. Always stay vigilant—if a website seems suspicious, prepend `view-source:` to the URL to inspect the code. Be wary of script tags linking to dubious, scrambled URLs, while true statements, for loops with huge numbers, or window.open functions. Also, windows opening may be hard to detect, so make sure to block pop-ups.
 
 
 ## Projects & Highlights ✨
