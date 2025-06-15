@@ -47,8 +47,8 @@ JavaScript can't install viruses, but it can download files, open mass amounts o
 
 ## Achievements 🏆
 
-* 🏆 **1st** — VA State Webmasters (TSA Competition 2025): Full-stack restaurant simulation with advanced UX design. [Demo](https://green-bites-restaurant.onrender.com)
-* 🏅 **2nd** — Website Design (TSA Competition 2024): Innovative makerspace promotional platform with interactive features. [Demo](https://pwngo.github.io)
-* 🏎️ **6th** — Autonomous Racing (ARC Fall 2024): Calculus-driven PID controller for high-performance autonomous systems. [Results](https://vivecenter.berkeley.edu/fall-2024-simulation-racing-series-results/)
+* 🏆 **1st** — VA State Webmasters (TSA Competition 2025) (States): Full-stack restaurant simulation with advanced UX design. Competed against high school students.[Demo](https://green-bites-restaurant.onrender.com)
+* 🏅 **2nd** — Website Design (TSA Competition 2024) (States): Innovative makerspace promotional platform with interactive features. Competed against middle school students.[Demo](https://pwngo.github.io)
+* 🏎️ **6th** — Autonomous Racing (ARC Fall 2024) (Nationals): Calculus-driven PID controller for high-performance autonomous systems. Competed against both high school and college students[Results](https://vivecenter.berkeley.edu/fall-2024-simulation-racing-series-results/)
 
 ---
