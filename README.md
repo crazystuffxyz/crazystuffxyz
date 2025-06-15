@@ -1,6 +1,6 @@
-# Hey there, I'm @crazystuffofficial! 👋
+# Hey there, I'm @crazystuffxyz! 👋
 
-**Creator of [crazystuffofficial.github.io](https://crazystuffofficial.github.io)**
+**Creator of [crazystuffxyz.github.io](https://crazystuffxyz.github.io)**
 
 ## About Me 🚀
 
@@ -27,10 +27,12 @@ JavaScript can't install viruses, but it can download files, open mass amounts o
 
 ## Projects & Highlights ✨
 
-- **[Portfolio Website](https://crazystuffofficial.github.io/youareanidiot.org):** A main page I made a long time ago with a lot of games free to play.
-- **[PHP Spy](https://github.com/crazystuffofficial/PHPSpy):** A PHP website that can be used to gather information on people. It also helps users understand that websites can trick them, and to stay cautious.
-- **[Static browser](https://github.com/crazystuffofficial/browser-static):** A completely static and private browser that has a built in proxy that uses a node.js bare server to use it's own DNS as its IP adress.
+- **[Portfolio Website](https://crazystuffxyz.github.io):** A main page I made a long time ago with a lot of games free to play.
+- **[PHP Spy](https://github.com/crazystuffxyz/PHPSpy):** A PHP website that can be used to gather information on people. It also helps users understand that websites can trick them, and to stay cautious.
+- **[Static browser](https://github.com/crazystuffxyz/browser-static):** A completely static and private browser that has a built in proxy that uses a node.js bare server to use it's own DNS as its IP adress.
 
 ## Achievements 🏆
 
 - **TSA Winner:** Got 2nd place in the VA state for Website Design in the TSA competition of 2024. **Website:** [pwngo.github.io](https://pwngo.github.io) <i>Please note there is no real makerspace, we were given a task to simulate a website to advertise it.</i>
+- **TSA Winner:** Got 1st place in the VA state for Webmasters in the TSA competition of 2025. **Website:** [green-bites-restaurant.onrender.com](https://green-bites-restaurant.onrender.com) <i>Please note there is no real restaurant, we were given a task to simulate a website to simulate it.</i>
+- **ARC Winner:** Got 6th place in USA for making an autonomous car using calculus (PID Controller). **Results:** [vivecenter.berkeley.edu/fall-2024-simulation-racing-series-results/](https://vivecenter.berkeley.edu/fall-2024-simulation-racing-series-results/)
