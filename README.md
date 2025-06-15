@@ -1,38 +1,54 @@
 # Hey there, I'm @crazystuffxyz! 👋
 
-**Creator of [crazystuffxyz.github.io](https://crazystuffxyz.github.io)**
+**Award-winning developer and mathematician crafting elegant solutions at the intersection of technology and theory.**
+
+---
 
 ## About Me 🚀
 
-- **💻 Coding Enthusiast:** Crafting dynamic websites with:
-  - **HTML** for structure
-  - **CSS** for style
-  - **JavaScript** for interactivity
-  - **PHP** for server-side magic
-  - **Node.js** for scalable backend solutions
-- **🌱 Lifelong Learner:** Currently exploring the vast possibilities of Python.
-- **🎯 Mission:** To build innovative and user-friendly web experiences.
+At 14, I’ve discovered my passion lies at the **intersection of mathematics and technology**. Since age five, I’ve been creating original formulas and exploring abstract concepts. My approach combines **theoretical insight** with practical implementation, building software that pushes boundaries while maintaining elegant simplicity.
+
+**💻 Coding Enthusiast:** Crafting dynamic websites with:
+
+* **HTML** for structure
+* **CSS & Tailwind CSS** for style
+* **JavaScript** for interactivity (typewriter & particle effects)
+* **PHP** for server-side magic
+* **Node.js** for scalable backend solutions
+
+**🌱 Lifelong Learner:** Currently exploring the vast possibilities of Python and AI/ML.
+
+**🎯 Mission:** To build innovative and user-friendly web experiences.
+
+---
 
 ## Connect with Me 🌐
 
-- **📧 Email:** [crazystuff.xyz@gmail.com](mailto:crazystuff.xyz@gmail.com)
-- **😄 Pronouns:** He/Him
-- **💬 Let's Chat:** I'm always open to discussing new ideas, collaborations, and opportunities!
+* 🔗 **GitHub:** [crazystuffxyz](https://github.com/crazystuffxyz)
+* 📧 **Email:** [crazystuff.xyz@gmail.com](mailto:crazystuff.xyz@gmail.com)
+* 😄 **Pronouns:** He/Him
+
+---
 
 ## Fun Fact ⚡
 
-**JavaScript Myth-Busting:**  
-JavaScript can't install viruses, but it can download files, open mass amounts of windows, or run busy functions which can drain your computer from memory. Its true danger lies in social engineering. Always stay vigilant—if a website seems suspicious, prepend `view-source:` to the URL to inspect the code. Be wary of script tags linking to dubious, scrambled URLs, while true statements, for loops with huge numbers, or window.open functions. Also, windows opening may be hard to detect, so make sure to block pop-ups.
+JavaScript can't install viruses, but it can download files, open mass amounts of windows, or run heavy loops that drain memory. Its true danger lies in social engineering—always stay vigilant. Prepend `view-source:` to inspect code, and be wary of `<script>` tags linking to obfuscated URLs.
 
+---
 
 ## Projects & Highlights ✨
 
-- **[Portfolio Website](https://crazystuffxyz.github.io):** A main page I made a long time ago with a lot of games free to play.
-- **[PHP Spy](https://github.com/crazystuffxyz/PHPSpy):** A PHP website that can be used to gather information on people. It also helps users understand that websites can trick them, and to stay cautious.
-- **[Static browser](https://github.com/crazystuffxyz/browser-static):** A completely static and private browser that has a built in proxy that uses a node.js bare server to use it's own DNS as its IP adress.
+* **chessAi**: Advanced chess AI with distributed computation architecture. [GitHub](https://github.com/crazystuffxyz/chessAi)
+* **The Crazy Browser**: Privacy-first browser ensuring complete anonymity. [GitHub](https://github.com/crazystuffxyz/thecrazybrowser)
+* **ollama-cloud**: Local proxy system for deepseek-r1 language model. [GitHub](https://github.com/crazystuffxyz/ollama-cloud)
+* **Kepler Solver**: High-precision Python implementation for solving the Kepler Equation. [GitHub](https://github.com/crazystuffxyz/keplerSolution)
+
+---
 
 ## Achievements 🏆
 
-- **TSA Winner:** Got 2nd place in the VA state for Website Design in the TSA competition of 2024. **Website:** [pwngo.github.io](https://pwngo.github.io) <i>Please note there is no real makerspace, we were given a task to simulate a website to advertise it.</i>
-- **TSA Winner:** Got 1st place in the VA state for Webmasters in the TSA competition of 2025. **Website:** [green-bites-restaurant.onrender.com](https://green-bites-restaurant.onrender.com) <i>Please note there is no real restaurant, we were given a task to simulate a website to simulate it.</i>
-- **ARC Winner:** Got 6th place in USA for making an autonomous car using calculus (PID Controller). **Results:** [vivecenter.berkeley.edu/fall-2024-simulation-racing-series-results/](https://vivecenter.berkeley.edu/fall-2024-simulation-racing-series-results/)
+* 🏆 **1st** — VA State Webmasters (TSA Competition 2025): Full-stack restaurant simulation with advanced UX design. [Demo](https://green-bites-restaurant.onrender.com)
+* 🏅 **2nd** — Website Design (TSA Competition 2024): Innovative makerspace promotional platform with interactive features. [Demo](https://pwngo.github.io)
+* 🏎️ **6th** — Autonomous Racing (ARC Fall 2024): Calculus-driven PID controller for high-performance autonomous systems. [Results](https://vivecenter.berkeley.edu/fall-2024-simulation-racing-series-results/)
+
+---
