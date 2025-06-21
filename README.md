@@ -4,6 +4,19 @@
 
 ---
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=crazystuffxyz&theme=dark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=crazystuffxyz&theme=dark&layout=compact&langs_count=8&card_width=341" />
+</a>
+ <br>    
+ <br>   
+ 
+![](https://komarev.com/ghpvc/?username=crazystuffxyz&color=66ffa1)
+
+---
+
 ## About Me 🚀
 
 At 14, I’ve discovered my passion lies at the **intersection of mathematics and technology**. Since age five, I’ve been creating original formulas and exploring abstract concepts. My approach combines **theoretical insight** with practical implementation, building software that pushes boundaries while maintaining elegant simplicity.
