@@ -53,7 +53,7 @@ JavaScript can't install viruses, but it can download files, open mass amounts o
 
 * **chessAi**: Advanced chess AI with distributed computation architecture. [GitHub](https://github.com/crazystuffxyz/chessAi)
 * **The Crazy Browser**: Privacy-first browser ensuring complete anonymity. [GitHub](https://github.com/crazystuffxyz/thecrazybrowser)
-* **ollama-cloud**: Local proxy system for deepseek-r1 language model. [GitHub](https://github.com/crazystuffxyz/ollama-cloud)
+* **Crazy-Deep-Research-GPT**: Local AI that supports premium features such as in-depth researching. [Github](https://github.com/crazystuffxyz/Crazy-Deep-Research-GPT)
 * **Kepler Solver**: High-precision Python implementation for solving the Kepler Equation. [GitHub](https://github.com/crazystuffxyz/keplerSolution)
 
 ---
