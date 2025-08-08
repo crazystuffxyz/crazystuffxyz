@@ -1,4 +1,4 @@
-# Hey there, I'm @crazystuffxyz! 👋
+# Hey there, I'm @crazystuffofficialgitaccount! 👋
 
 **Award-winning developer and mathematician crafting elegant solutions at the intersection of technology and theory.**
 
