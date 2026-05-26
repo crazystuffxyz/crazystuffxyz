@@ -19,7 +19,7 @@
 
 ## About Me 🚀
 
-At 14, I’ve discovered my passion lies at the **intersection of mathematics and technology**. Since age five, I’ve been creating original formulas and exploring abstract concepts. My approach combines **theoretical insight** with practical implementation, building software that pushes boundaries while maintaining elegant simplicity.
+At 15, I’ve discovered my passion lies at the **intersection of mathematics and technology**. Since age five, I’ve been creating original formulas and exploring abstract concepts. My approach combines **theoretical insight** with practical implementation, building software that pushes boundaries while maintaining elegant simplicity.
 
 **💻 Coding Enthusiast:** Crafting dynamic websites with:
 
