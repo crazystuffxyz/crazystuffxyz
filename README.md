@@ -45,7 +45,7 @@ At 14, I’ve discovered my passion lies at the **intersection of mathematics an
 
 ## Fun Fact ⚡
 
-JavaScript can't install viruses, but it can download files, open mass amounts of windows, or run heavy loops that drain memory. Its true danger lies in social engineering—always stay vigilant. Prepend `view-source:` to inspect code, and be wary of `<script>` tags linking to obfuscated URLs.
+JavaScript can't install viruses, but it can download files, open mass amounts of windows, run heavy loops that drain memory, or collect data (such as IP addresses). Its true danger lies in social engineering, so always stay vigilant. Prepend `view-source:` to inspect code, and be wary of `<script>` tags linking to obfuscated URLs.
 
 ---
 
